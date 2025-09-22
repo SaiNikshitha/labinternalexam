@@ -8,6 +8,7 @@
     <p>This is a simple web application built using JSP and Maven.</p>
 
     <h3>What do you want to do?</h3>
+    <h3> changes done in the local file</h3>
     <ul>
         <li><a href="register.jsp">Registration for New user</a></li>
         <li><a href="login.jsp">Login page for booking</a></li>
