@@ -4,6 +4,7 @@ public class FlightSearchController {
         System.out.println("typo fix");
         System.out.println("log improvement");
         System.out.println("query optimization");
+        System.out.println("commiting all at onc");
     }
     
 }
